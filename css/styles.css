@@ -1,0 +1,66 @@
+#menu{
+  background-image:url('..img/black_linen.png');
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+#menu h1{
+  color:#fff;
+  font-family:'Lobster',cursive;
+  font-size: 6em;
+  text-shadow: 1px 1px 5px #0a0a0a;
+}
+#menu h3{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 2em;
+}
+#menu a {
+  color:#f8512f;
+  font-family: 'Raleway' sans-serif;
+  font-weight: 300;
+}
+#menu p{
+  text-align: justify;
+  font-family: 'Raleway' sans-serif;
+  font-weight: 300;
+}
+.food{
+  background-color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#menu .nav li a:hover{
+  background-color: rgba(255,255,255,0);
+  border-color: transparent;
+}
+#menu.nav-justified li a{
+  margin-bottom:-5px;
+}
+#menu.nav-tabs li a{
+  border:none;
+}
+/*contact form*/
+.contact-form{
+  background-color: #ff6633;
+  color:#fff;
+  border: 1px solid #fff;
+}
+.contact-form form{
+  padding: 5% 0;
+}
+.contact-form span{
+  color:#ff0d06:
+}
+#contact h1{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  color:#fff;
+  font-size: 1em;
+}
+#contact-fine-print{
+  font-size:12px !important;
+  text-align: center;
+}
